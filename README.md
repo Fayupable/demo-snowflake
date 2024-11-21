@@ -25,7 +25,7 @@ snowflake.datacenter-id=1
 snowflake.worker-id=1
 
 # Database Configuration
-spring.datasource.url=jdbc:mysql://localhost:3306/snowflake_demo
+spring.datasource.url=your_jdbc_url
 spring.datasource.username=your_username
 spring.datasource.password=your_password
 spring.jpa.hibernate.ddl-auto=update
